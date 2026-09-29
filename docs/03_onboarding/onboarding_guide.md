@@ -30,13 +30,20 @@ Welcome to the **#AI4Elections Hackathon**: build working, responsible AI for el
 Nigerian participants aged 18+ (supervised youth pathway for younger participants). Academic teams need a faculty lead, a student/postgraduate researcher and an HOD approval letter. Organisations need CAC registration, at least 60% of team resident in Nigeria, and IDs for all members. Individuals need a valid government ID and ID of any affiliated organisation. All submissions in English. Idea-only proposals, mock-ups and projects that already won grants/awards elsewhere are ineligible.
 
 ## 4. Environment setup
-```bash
-git clone <hackathon-template-repo-url> && cd ai4elections
-python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
+git clone <repository-url>
+cd ai4elections
+
+python -m venv .venv
+
+# Linux/macOS
+source .venv/bin/activate
+
+# Windows
+.venv\Scripts\activate
+
 pip install -r requirements.txt
-python tools/generate_synthetic_data.py             # regenerates the data pack
+
 jupyter notebook notebooks/
-```
 No laptop? Use Google Colab or GitHub Codespaces; ask mentors about partner compute credits.
 
 ## 5. Code of Conduct (summary; full version to be signed by every participant)
