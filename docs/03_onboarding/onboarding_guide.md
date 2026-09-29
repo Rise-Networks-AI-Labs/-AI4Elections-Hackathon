@@ -31,11 +31,11 @@ Nigerian participants aged 18+ (supervised youth pathway for younger participant
 
 ## 4. Environment setup
 ```bash
-git clone <hackathon-template-repo-url> && cd ai4elections
+git clone https://github.com/Rise-Networks-AI-Labs/-AI4Elections-Hackathon && cd ai4elections
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 python tools/generate_synthetic_data.py             # regenerates the data pack
-jupyter notebook notebooks/
+jupyter-notebook notebooks/
 ```
 No laptop? Use Google Colab or GitHub Codespaces; ask mentors about partner compute credits.
 
