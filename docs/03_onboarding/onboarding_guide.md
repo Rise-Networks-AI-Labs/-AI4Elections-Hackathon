@@ -44,6 +44,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 jupyter notebook notebooks/
+
 No laptop? Use Google Colab or GitHub Codespaces; ask mentors about partner compute credits.
 
 ## 5. Code of Conduct (summary; full version to be signed by every participant)
