@@ -1,0 +1,401 @@
+incident_id,timestamp,state,lga,pu_id,category,description,severity_0_4,reporter_type,verified,has_photo_evidence
+INC-0001,2030-01-15T06:56:00,Plateau,Plateau LGA-3,SIM-00129,queue_management,Very long queue and no shade at Plateau L3-W2.,1,simulated_agent,False,False
+INC-0002,2030-01-15T07:20:00,Imo,Imo LGA-1,SIM-00550,logistics_delay,Materials arrived late at Imo L1-W2.,2,citizen,True,False
+INC-0003,2030-01-15T15:53:00,Delta,Delta LGA-3,SIM-00666,logistics_delay,Materials arrived late at Delta L3-W2.,2,citizen,False,True
+INC-0004,2030-01-15T11:27:00,Niger,Niger LGA-1,SIM-00138,logistics_delay,Materials arrived late at Niger L1-W1.,2,observer,False,False
+INC-0005,2030-01-15T06:15:00,Ogun,Ogun LGA-2,SIM-00837,intimidation,Voters report being intimidated near Ogun L2-W3.,4,citizen,False,True
+INC-0006,2030-01-15T14:41:00,Osun,Osun LGA-3,SIM-00890,positive_practice,Officials at Osun L3-W1 assisted elderly voters promptly.,1,citizen,False,False
+INC-0007,2030-01-15T07:21:00,Lagos,Lagos LGA-1,SIM-00729,positive_practice,Officials at Lagos L1-W2 assisted elderly voters promptly.,0,simulated_agent,False,False
+INC-0008,2030-01-15T18:55:00,Kaduna,Kaduna LGA-1,SIM-00361,accessibility_barrier,Polling unit in Kaduna L1-W1 has steps and no ramp for wheelchair users.,3,simulated_agent,True,True
+INC-0009,2030-01-15T17:45:00,Plateau,Plateau LGA-1,SIM-00098,logistics_delay,Materials arrived late at Plateau L1-W2.,1,citizen,False,False
+INC-0010,2030-01-15T06:30:00,Adamawa,Adamawa LGA-2,SIM-00286,positive_practice,Officials at Adamawa L2-W1 assisted elderly voters promptly.,0,citizen,True,False
+INC-0011,2030-01-15T13:54:00,Delta,Delta LGA-1,SIM-00633,intimidation,Voters report being intimidated near Delta L1-W1.,4,citizen,False,False
+INC-0012,2030-01-15T10:27:00,Ogun,Ogun LGA-1,SIM-00812,positive_practice,Officials at Ogun L1-W1 assisted elderly voters promptly.,1,simulated_agent,False,False
+INC-0013,2030-01-15T09:56:00,Lagos,Lagos LGA-2,SIM-00748,equipment_failure,Card reader not working at Lagos L2-W3.,4,citizen,False,True
+INC-0014,2030-01-15T06:47:00,Plateau,Plateau LGA-1,SIM-00103,queue_management,Very long queue and no shade at Plateau L1-W3.,2,simulated_agent,True,False
+INC-0015,2030-01-15T12:36:00,Adamawa,Adamawa LGA-2,SIM-00292,positive_practice,Officials at Adamawa L2-W2 assisted elderly voters promptly.,0,citizen,False,False
+INC-0016,2030-01-15T11:24:00,Delta,Delta LGA-2,SIM-00659,intimidation,Voters report being intimidated near Delta L2-W3.,4,simulated_agent,True,False
+INC-0017,2030-01-15T12:48:00,Delta,Delta LGA-3,SIM-00668,equipment_failure,Card reader not working at Delta L3-W2.,3,simulated_agent,True,True
+INC-0018,2030-01-15T09:33:00,Rivers,Rivers LGA-3,SIM-00622,intimidation,Voters report being intimidated near Rivers L3-W2.,4,citizen,False,True
+INC-0019,2030-01-15T17:12:00,Sokoto,Sokoto LGA-3,SIM-00443,positive_practice,Officials at Sokoto L3-W2 assisted elderly voters promptly.,0,simulated_agent,False,True
+INC-0020,2030-01-15T06:36:00,Osun,Osun LGA-1,SIM-00858,information_gap,Voters at Osun L1-W1 did not know which unit to go to.,2,citizen,True,False
+INC-0021,2030-01-15T15:41:00,Delta,Delta LGA-3,SIM-00671,logistics_delay,Materials arrived late at Delta L3-W3.,3,citizen,True,False
+INC-0022,2030-01-15T11:04:00,Cross River,Cross River LGA-2,SIM-00694,logistics_delay,Materials arrived late at Cross River L2-W1.,3,citizen,False,True
+INC-0023,2030-01-15T14:59:00,Delta,Delta LGA-3,SIM-00675,information_gap,Voters at Delta L3-W3 did not know which unit to go to.,2,citizen,True,True
+INC-0024,2030-01-15T14:39:00,Osun,Osun LGA-3,SIM-00892,accessibility_barrier,Polling unit in Osun L3-W2 has steps and no ramp for wheelchair users.,2,simulated_agent,False,True
+INC-0025,2030-01-15T18:25:00,Lagos,Lagos LGA-1,SIM-00732,equipment_failure,Card reader not working at Lagos L1-W3.,3,simulated_agent,False,True
+INC-0026,2030-01-15T13:25:00,Sokoto,Sokoto LGA-1,SIM-00418,positive_practice,Officials at Sokoto L1-W3 assisted elderly voters promptly.,0,simulated_agent,True,False
+INC-0027,2030-01-15T14:55:00,Delta,Delta LGA-3,SIM-00671,queue_management,Very long queue and no shade at Delta L3-W3.,1,citizen,True,False
+INC-0028,2030-01-15T10:32:00,Niger,Niger LGA-3,SIM-00179,equipment_failure,Card reader not working at Niger L3-W3.,3,simulated_agent,False,False
+INC-0029,2030-01-15T11:29:00,Delta,Delta LGA-2,SIM-00655,equipment_failure,Card reader not working at Delta L2-W2.,4,simulated_agent,True,False
+INC-0030,2030-01-15T15:04:00,Bauchi,Bauchi LGA-2,SIM-00202,logistics_delay,Materials arrived late at Bauchi L2-W2.,3,simulated_agent,True,True
+INC-0031,2030-01-15T07:22:00,Borno,Borno LGA-2,SIM-00253,information_gap,Voters at Borno L2-W3 did not know which unit to go to.,3,simulated_agent,True,False
+INC-0032,2030-01-15T10:22:00,Kaduna,Kaduna LGA-2,SIM-00378,queue_management,Very long queue and no shade at Kaduna L2-W1.,1,observer,True,True
+INC-0033,2030-01-15T11:18:00,Lagos,Lagos LGA-3,SIM-00759,logistics_delay,Materials arrived late at Lagos L3-W2.,2,citizen,True,False
+INC-0034,2030-01-15T06:50:00,Ogun,Ogun LGA-1,SIM-00811,equipment_failure,Card reader not working at Ogun L1-W1.,3,citizen,False,True
+INC-0035,2030-01-15T11:11:00,Rivers,Rivers LGA-3,SIM-00619,logistics_delay,Materials arrived late at Rivers L3-W1.,2,citizen,True,True
+INC-0036,2030-01-15T09:51:00,Ogun,Ogun LGA-2,SIM-00826,queue_management,Very long queue and no shade at Ogun L2-W1.,2,observer,True,False
+INC-0037,2030-01-15T10:05:00,Benue,Benue LGA-2,SIM-00030,equipment_failure,Card reader not working at Benue L2-W3.,2,simulated_agent,True,False
+INC-0038,2030-01-15T15:28:00,Imo,Imo LGA-2,SIM-00557,information_gap,Voters at Imo L2-W1 did not know which unit to go to.,2,observer,True,False
+INC-0039,2030-01-15T14:46:00,Lagos,Lagos LGA-1,SIM-00725,logistics_delay,Materials arrived late at Lagos L1-W1.,1,observer,False,True
+INC-0040,2030-01-15T09:30:00,Enugu,Enugu LGA-1,SIM-00461,logistics_delay,Materials arrived late at Enugu L1-W3.,2,observer,False,False
+INC-0041,2030-01-15T07:45:00,Anambra,Anambra LGA-1,SIM-00498,information_gap,Voters at Anambra L1-W1 did not know which unit to go to.,3,citizen,False,False
+INC-0042,2030-01-15T18:13:00,Niger,Niger LGA-3,SIM-00176,intimidation,Voters report being intimidated near Niger L3-W3.,4,simulated_agent,False,True
+INC-0043,2030-01-15T09:15:00,Lagos,Lagos LGA-2,SIM-00749,logistics_delay,Materials arrived late at Lagos L2-W3.,3,simulated_agent,False,True
+INC-0044,2030-01-15T11:26:00,Rivers,Rivers LGA-3,SIM-00617,information_gap,Voters at Rivers L3-W1 did not know which unit to go to.,2,simulated_agent,False,True
+INC-0045,2030-01-15T07:51:00,Delta,Delta LGA-1,SIM-00631,intimidation,Voters report being intimidated near Delta L1-W1.,4,citizen,True,False
+INC-0046,2030-01-15T17:35:00,Kaduna,Kaduna LGA-1,SIM-00364,queue_management,Very long queue and no shade at Kaduna L1-W1.,1,simulated_agent,True,True
+INC-0047,2030-01-15T07:51:00,Oyo,Oyo LGA-3,SIM-00809,positive_practice,Officials at Oyo L3-W3 assisted elderly voters promptly.,0,simulated_agent,False,True
+INC-0048,2030-01-15T10:15:00,Cross River,Cross River LGA-2,SIM-00697,logistics_delay,Materials arrived late at Cross River L2-W2.,2,citizen,False,True
+INC-0049,2030-01-15T14:49:00,Cross River,Cross River LGA-3,SIM-00718,accessibility_barrier,Polling unit in Cross River L3-W3 has steps and no ramp for wheelchair users.,2,citizen,False,False
+INC-0050,2030-01-15T14:31:00,Oyo,Oyo LGA-3,SIM-00796,logistics_delay,Materials arrived late at Oyo L3-W1.,2,simulated_agent,False,False
+INC-0051,2030-01-15T11:27:00,Imo,Imo LGA-2,SIM-00566,queue_management,Very long queue and no shade at Imo L2-W3.,1,simulated_agent,True,False
+INC-0052,2030-01-15T11:18:00,Kaduna,Kaduna LGA-2,SIM-00380,positive_practice,Officials at Kaduna L2-W1 assisted elderly voters promptly.,0,observer,True,True
+INC-0053,2030-01-15T12:31:00,Kaduna,Kaduna LGA-3,SIM-00398,equipment_failure,Card reader not working at Kaduna L3-W2.,3,simulated_agent,False,False
+INC-0054,2030-01-15T06:32:00,Oyo,Oyo LGA-1,SIM-00767,equipment_failure,Card reader not working at Oyo L1-W1.,2,observer,True,False
+INC-0055,2030-01-15T11:33:00,Benue,Benue LGA-2,SIM-00018,logistics_delay,Materials arrived late at Benue L2-W1.,2,citizen,True,False
+INC-0056,2030-01-15T15:12:00,Sokoto,Sokoto LGA-3,SIM-00441,accessibility_barrier,Polling unit in Sokoto L3-W2 has steps and no ramp for wheelchair users.,4,simulated_agent,False,True
+INC-0057,2030-01-15T16:06:00,Borno,Borno LGA-1,SIM-00238,accessibility_barrier,Polling unit in Borno L1-W3 has steps and no ramp for wheelchair users.,4,citizen,False,False
+INC-0058,2030-01-15T17:27:00,Niger,Niger LGA-2,SIM-00158,information_gap,Voters at Niger L2-W2 did not know which unit to go to.,2,simulated_agent,True,False
+INC-0059,2030-01-15T18:47:00,Delta,Delta LGA-2,SIM-00660,accessibility_barrier,Polling unit in Delta L2-W3 has steps and no ramp for wheelchair users.,4,observer,True,False
+INC-0060,2030-01-15T13:21:00,Bauchi,Bauchi LGA-1,SIM-00192,logistics_delay,Materials arrived late at Bauchi L1-W3.,1,observer,True,True
+INC-0061,2030-01-15T07:10:00,Sokoto,Sokoto LGA-3,SIM-00438,accessibility_barrier,Polling unit in Sokoto L3-W1 has steps and no ramp for wheelchair users.,4,citizen,True,True
+INC-0062,2030-01-15T08:48:00,Sokoto,Sokoto LGA-3,SIM-00450,information_gap,Voters at Sokoto L3-W3 did not know which unit to go to.,2,citizen,True,True
+INC-0063,2030-01-15T14:47:00,Kaduna,Kaduna LGA-1,SIM-00364,positive_practice,Officials at Kaduna L1-W1 assisted elderly voters promptly.,1,observer,True,False
+INC-0064,2030-01-15T13:39:00,Osun,Osun LGA-3,SIM-00900,logistics_delay,Materials arrived late at Osun L3-W3.,1,observer,False,False
+INC-0065,2030-01-15T06:26:00,Borno,Borno LGA-1,SIM-00237,logistics_delay,Materials arrived late at Borno L1-W3.,2,observer,True,False
+INC-0066,2030-01-15T15:20:00,Niger,Niger LGA-1,SIM-00143,accessibility_barrier,Polling unit in Niger L1-W2 has steps and no ramp for wheelchair users.,3,observer,False,False
+INC-0067,2030-01-15T13:40:00,Oyo,Oyo LGA-1,SIM-00777,logistics_delay,Materials arrived late at Oyo L1-W3.,3,simulated_agent,True,False
+INC-0068,2030-01-15T18:05:00,Cross River,Cross River LGA-2,SIM-00703,equipment_failure,Card reader not working at Cross River L2-W3.,2,observer,True,True
+INC-0069,2030-01-15T16:30:00,Kaduna,Kaduna LGA-1,SIM-00362,logistics_delay,Materials arrived late at Kaduna L1-W1.,1,simulated_agent,True,False
+INC-0070,2030-01-15T18:53:00,Plateau,Plateau LGA-1,SIM-00096,intimidation,Voters report being intimidated near Plateau L1-W2.,4,observer,True,True
+INC-0071,2030-01-15T11:28:00,Benue,Benue LGA-1,SIM-00014,accessibility_barrier,Polling unit in Benue L1-W3 has steps and no ramp for wheelchair users.,4,simulated_agent,True,False
+INC-0072,2030-01-15T11:53:00,Bauchi,Bauchi LGA-3,SIM-00222,logistics_delay,Materials arrived late at Bauchi L3-W3.,3,observer,False,False
+INC-0073,2030-01-15T17:00:00,Osun,Osun LGA-2,SIM-00884,positive_practice,Officials at Osun L2-W3 assisted elderly voters promptly.,0,simulated_agent,True,True
+INC-0074,2030-01-15T16:37:00,Delta,Delta LGA-2,SIM-00660,information_gap,Voters at Delta L2-W3 did not know which unit to go to.,2,simulated_agent,False,False
+INC-0075,2030-01-15T09:14:00,Kano,Kano LGA-3,SIM-00350,equipment_failure,Card reader not working at Kano L3-W1.,2,simulated_agent,True,False
+INC-0076,2030-01-15T14:27:00,Plateau,Plateau LGA-1,SIM-00094,positive_practice,Officials at Plateau L1-W1 assisted elderly voters promptly.,0,citizen,True,False
+INC-0077,2030-01-15T13:11:00,Ogun,Ogun LGA-1,SIM-00820,queue_management,Very long queue and no shade at Ogun L1-W2.,1,citizen,False,True
+INC-0078,2030-01-15T09:33:00,Osun,Osun LGA-1,SIM-00870,queue_management,Very long queue and no shade at Osun L1-W3.,1,citizen,False,False
+INC-0079,2030-01-15T07:13:00,Ogun,Ogun LGA-2,SIM-00836,accessibility_barrier,Polling unit in Ogun L2-W3 has steps and no ramp for wheelchair users.,4,citizen,False,True
+INC-0080,2030-01-15T11:38:00,Ogun,Ogun LGA-2,SIM-00838,intimidation,Voters report being intimidated near Ogun L2-W3.,3,simulated_agent,True,False
+INC-0081,2030-01-15T11:24:00,Kwara,Kwara LGA-1,SIM-00056,logistics_delay,Materials arrived late at Kwara L1-W3.,1,observer,True,False
+INC-0082,2030-01-15T13:20:00,Delta,Delta LGA-1,SIM-00634,queue_management,Very long queue and no shade at Delta L1-W1.,0,simulated_agent,False,True
+INC-0083,2030-01-15T06:24:00,Kwara,Kwara LGA-2,SIM-00062,logistics_delay,Materials arrived late at Kwara L2-W1.,2,citizen,True,False
+INC-0084,2030-01-15T08:58:00,Sokoto,Sokoto LGA-2,SIM-00426,logistics_delay,Materials arrived late at Sokoto L2-W2.,3,citizen,False,False
+INC-0085,2030-01-15T11:20:00,Kaduna,Kaduna LGA-3,SIM-00402,accessibility_barrier,Polling unit in Kaduna L3-W3 has steps and no ramp for wheelchair users.,3,simulated_agent,True,False
+INC-0086,2030-01-15T08:42:00,Adamawa,Adamawa LGA-3,SIM-00310,logistics_delay,Materials arrived late at Adamawa L3-W2.,3,observer,True,True
+INC-0087,2030-01-15T12:52:00,Delta,Delta LGA-3,SIM-00664,positive_practice,Officials at Delta L3-W1 assisted elderly voters promptly.,0,simulated_agent,False,False
+INC-0088,2030-01-15T13:19:00,Niger,Niger LGA-1,SIM-00140,intimidation,Voters report being intimidated near Niger L1-W1.,4,observer,True,True
+INC-0089,2030-01-15T09:03:00,Osun,Osun LGA-1,SIM-00866,information_gap,Voters at Osun L1-W3 did not know which unit to go to.,1,observer,False,False
+INC-0090,2030-01-15T13:28:00,Anambra,Anambra LGA-1,SIM-00510,equipment_failure,Card reader not working at Anambra L1-W3.,4,simulated_agent,True,False
+INC-0091,2030-01-15T16:44:00,Anambra,Anambra LGA-3,SIM-00527,logistics_delay,Materials arrived late at Anambra L3-W1.,1,citizen,False,True
+INC-0092,2030-01-15T08:41:00,Oyo,Oyo LGA-2,SIM-00795,logistics_delay,Materials arrived late at Oyo L2-W3.,2,citizen,True,True
+INC-0093,2030-01-15T15:18:00,Anambra,Anambra LGA-1,SIM-00498,accessibility_barrier,Polling unit in Anambra L1-W1 has steps and no ramp for wheelchair users.,4,observer,True,False
+INC-0094,2030-01-15T16:04:00,Niger,Niger LGA-3,SIM-00170,queue_management,Very long queue and no shade at Niger L3-W1.,0,citizen,True,False
+INC-0095,2030-01-15T10:09:00,Borno,Borno LGA-1,SIM-00228,positive_practice,Officials at Borno L1-W1 assisted elderly voters promptly.,0,simulated_agent,True,False
+INC-0096,2030-01-15T11:09:00,Rivers,Rivers LGA-3,SIM-00624,queue_management,Very long queue and no shade at Rivers L3-W2.,1,observer,True,False
+INC-0097,2030-01-15T16:25:00,Osun,Osun LGA-3,SIM-00894,logistics_delay,Materials arrived late at Osun L3-W2.,1,observer,False,False
+INC-0098,2030-01-15T11:33:00,Borno,Borno LGA-2,SIM-00252,positive_practice,Officials at Borno L2-W3 assisted elderly voters promptly.,0,citizen,True,False
+INC-0099,2030-01-15T15:18:00,Sokoto,Sokoto LGA-2,SIM-00430,intimidation,Voters report being intimidated near Sokoto L2-W2.,4,simulated_agent,False,False
+INC-0100,2030-01-15T14:10:00,Ogun,Ogun LGA-3,SIM-00841,logistics_delay,Materials arrived late at Ogun L3-W1.,2,observer,False,False
+INC-0101,2030-01-15T10:48:00,Lagos,Lagos LGA-2,SIM-00743,accessibility_barrier,Polling unit in Lagos L2-W2 has steps and no ramp for wheelchair users.,3,simulated_agent,True,False
+INC-0102,2030-01-15T08:53:00,Kaduna,Kaduna LGA-1,SIM-00365,intimidation,Voters report being intimidated near Kaduna L1-W1.,4,citizen,True,True
+INC-0103,2030-01-15T06:28:00,Kwara,Kwara LGA-1,SIM-00053,positive_practice,Officials at Kwara L1-W2 assisted elderly voters promptly.,1,simulated_agent,True,True
+INC-0104,2030-01-15T11:24:00,Plateau,Plateau LGA-3,SIM-00130,intimidation,Voters report being intimidated near Plateau L3-W2.,4,simulated_agent,False,True
+INC-0105,2030-01-15T17:45:00,Plateau,Plateau LGA-1,SIM-00104,intimidation,Voters report being intimidated near Plateau L1-W3.,4,simulated_agent,True,False
+INC-0106,2030-01-15T14:32:00,Bauchi,Bauchi LGA-3,SIM-00211,intimidation,Voters report being intimidated near Bauchi L3-W1.,4,observer,True,False
+INC-0107,2030-01-15T14:41:00,Ogun,Ogun LGA-2,SIM-00833,positive_practice,Officials at Ogun L2-W2 assisted elderly voters promptly.,0,simulated_agent,True,False
+INC-0108,2030-01-15T09:54:00,Sokoto,Sokoto LGA-2,SIM-00426,positive_practice,Officials at Sokoto L2-W2 assisted elderly voters promptly.,0,observer,False,False
+INC-0109,2030-01-15T09:08:00,Sokoto,Sokoto LGA-3,SIM-00442,equipment_failure,Card reader not working at Sokoto L3-W2.,3,citizen,True,False
+INC-0110,2030-01-15T09:55:00,Adamawa,Adamawa LGA-2,SIM-00286,logistics_delay,Materials arrived late at Adamawa L2-W1.,2,simulated_agent,True,False
+INC-0111,2030-01-15T06:46:00,Rivers,Rivers LGA-1,SIM-00592,information_gap,Voters at Rivers L1-W2 did not know which unit to go to.,2,observer,True,True
+INC-0112,2030-01-15T11:46:00,Rivers,Rivers LGA-1,SIM-00590,queue_management,Very long queue and no shade at Rivers L1-W1.,1,simulated_agent,False,False
+INC-0113,2030-01-15T14:28:00,Kwara,Kwara LGA-3,SIM-00084,intimidation,Voters report being intimidated near Kwara L3-W2.,4,simulated_agent,True,False
+INC-0114,2030-01-15T16:46:00,Kwara,Kwara LGA-3,SIM-00089,information_gap,Voters at Kwara L3-W3 did not know which unit to go to.,2,observer,False,True
+INC-0115,2030-01-15T07:35:00,Anambra,Anambra LGA-2,SIM-00525,information_gap,Voters at Anambra L2-W3 did not know which unit to go to.,3,simulated_agent,True,False
+INC-0116,2030-01-15T10:00:00,Plateau,Plateau LGA-3,SIM-00133,accessibility_barrier,Polling unit in Plateau L3-W3 has steps and no ramp for wheelchair users.,3,observer,False,False
+INC-0117,2030-01-15T06:41:00,Bauchi,Bauchi LGA-2,SIM-00199,intimidation,Voters report being intimidated near Bauchi L2-W1.,4,simulated_agent,True,False
+INC-0118,2030-01-15T12:48:00,Delta,Delta LGA-1,SIM-00639,equipment_failure,Card reader not working at Delta L1-W2.,3,simulated_agent,True,False
+INC-0119,2030-01-15T10:09:00,Kaduna,Kaduna LGA-3,SIM-00399,queue_management,Very long queue and no shade at Kaduna L3-W2.,0,observer,True,True
+INC-0120,2030-01-15T12:17:00,Kano,Kano LGA-1,SIM-00318,positive_practice,Officials at Kano L1-W1 assisted elderly voters promptly.,0,simulated_agent,False,True
+INC-0121,2030-01-15T17:50:00,Oyo,Oyo LGA-1,SIM-00780,queue_management,Very long queue and no shade at Oyo L1-W3.,2,citizen,True,False
+INC-0122,2030-01-15T10:15:00,Benue,Benue LGA-3,SIM-00039,accessibility_barrier,Polling unit in Benue L3-W2 has steps and no ramp for wheelchair users.,3,observer,False,False
+INC-0123,2030-01-15T17:21:00,Kwara,Kwara LGA-1,SIM-00047,queue_management,Very long queue and no shade at Kwara L1-W1.,0,observer,False,True
+INC-0124,2030-01-15T16:30:00,Kwara,Kwara LGA-1,SIM-00053,positive_practice,Officials at Kwara L1-W2 assisted elderly voters promptly.,0,observer,True,False
+INC-0125,2030-01-15T07:20:00,Imo,Imo LGA-3,SIM-00574,accessibility_barrier,Polling unit in Imo L3-W1 has steps and no ramp for wheelchair users.,4,simulated_agent,True,False
+INC-0126,2030-01-15T12:56:00,Niger,Niger LGA-3,SIM-00177,queue_management,Very long queue and no shade at Niger L3-W3.,2,simulated_agent,True,True
+INC-0127,2030-01-15T11:44:00,Anambra,Anambra LGA-2,SIM-00518,queue_management,Very long queue and no shade at Anambra L2-W2.,0,simulated_agent,False,False
+INC-0128,2030-01-15T07:01:00,Lagos,Lagos LGA-1,SIM-00728,equipment_failure,Card reader not working at Lagos L1-W2.,3,observer,False,False
+INC-0129,2030-01-15T11:58:00,Benue,Benue LGA-2,SIM-00017,information_gap,Voters at Benue L2-W1 did not know which unit to go to.,1,simulated_agent,True,False
+INC-0130,2030-01-15T06:32:00,Anambra,Anambra LGA-2,SIM-00523,queue_management,Very long queue and no shade at Anambra L2-W3.,0,citizen,True,False
+INC-0131,2030-01-15T13:39:00,Rivers,Rivers LGA-1,SIM-00596,positive_practice,Officials at Rivers L1-W3 assisted elderly voters promptly.,0,citizen,True,False
+INC-0132,2030-01-15T15:15:00,Bauchi,Bauchi LGA-1,SIM-00181,accessibility_barrier,Polling unit in Bauchi L1-W1 has steps and no ramp for wheelchair users.,3,observer,True,True
+INC-0133,2030-01-15T12:48:00,Osun,Osun LGA-1,SIM-00858,equipment_failure,Card reader not working at Osun L1-W1.,3,observer,True,True
+INC-0134,2030-01-15T15:44:00,Plateau,Plateau LGA-3,SIM-00126,accessibility_barrier,Polling unit in Plateau L3-W2 has steps and no ramp for wheelchair users.,3,simulated_agent,True,False
+INC-0135,2030-01-15T16:12:00,Rivers,Rivers LGA-3,SIM-00621,accessibility_barrier,Polling unit in Rivers L3-W2 has steps and no ramp for wheelchair users.,2,citizen,False,False
+INC-0136,2030-01-15T11:23:00,Lagos,Lagos LGA-3,SIM-00758,equipment_failure,Card reader not working at Lagos L3-W2.,4,citizen,True,False
+INC-0137,2030-01-15T13:23:00,Oyo,Oyo LGA-3,SIM-00808,information_gap,Voters at Oyo L3-W3 did not know which unit to go to.,3,observer,True,False
+INC-0138,2030-01-15T06:38:00,Oyo,Oyo LGA-3,SIM-00803,positive_practice,Officials at Oyo L3-W2 assisted elderly voters promptly.,0,observer,True,False
+INC-0139,2030-01-15T14:11:00,Rivers,Rivers LGA-2,SIM-00608,information_gap,Voters at Rivers L2-W2 did not know which unit to go to.,2,citizen,False,False
+INC-0140,2030-01-15T13:47:00,Delta,Delta LGA-3,SIM-00673,logistics_delay,Materials arrived late at Delta L3-W3.,1,citizen,False,False
+INC-0141,2030-01-15T07:18:00,Adamawa,Adamawa LGA-2,SIM-00298,logistics_delay,Materials arrived late at Adamawa L2-W3.,1,simulated_agent,True,False
+INC-0142,2030-01-15T08:56:00,Anambra,Anambra LGA-1,SIM-00507,logistics_delay,Materials arrived late at Anambra L1-W3.,2,citizen,False,True
+INC-0143,2030-01-15T07:11:00,Oyo,Oyo LGA-1,SIM-00780,logistics_delay,Materials arrived late at Oyo L1-W3.,3,observer,False,False
+INC-0144,2030-01-15T09:28:00,Niger,Niger LGA-1,SIM-00147,accessibility_barrier,Polling unit in Niger L1-W3 has steps and no ramp for wheelchair users.,3,citizen,False,True
+INC-0145,2030-01-15T08:15:00,Imo,Imo LGA-2,SIM-00557,positive_practice,Officials at Imo L2-W1 assisted elderly voters promptly.,0,citizen,True,False
+INC-0146,2030-01-15T14:58:00,Osun,Osun LGA-1,SIM-00866,logistics_delay,Materials arrived late at Osun L1-W3.,2,observer,False,True
+INC-0147,2030-01-15T11:55:00,Osun,Osun LGA-2,SIM-00884,information_gap,Voters at Osun L2-W3 did not know which unit to go to.,1,observer,True,False
+INC-0148,2030-01-15T10:08:00,Imo,Imo LGA-1,SIM-00548,information_gap,Voters at Imo L1-W2 did not know which unit to go to.,3,simulated_agent,True,False
+INC-0149,2030-01-15T17:02:00,Benue,Benue LGA-2,SIM-00023,queue_management,Very long queue and no shade at Benue L2-W2.,0,citizen,True,True
+INC-0150,2030-01-15T14:32:00,Bauchi,Bauchi LGA-1,SIM-00188,logistics_delay,Materials arrived late at Bauchi L1-W2.,2,observer,False,False
+INC-0151,2030-01-15T13:21:00,Enugu,Enugu LGA-2,SIM-00476,information_gap,Voters at Enugu L2-W3 did not know which unit to go to.,1,citizen,False,False
+INC-0152,2030-01-15T09:10:00,Kano,Kano LGA-3,SIM-00349,positive_practice,Officials at Kano L3-W1 assisted elderly voters promptly.,0,observer,True,False
+INC-0153,2030-01-15T14:42:00,Rivers,Rivers LGA-3,SIM-00618,accessibility_barrier,Polling unit in Rivers L3-W1 has steps and no ramp for wheelchair users.,3,observer,True,False
+INC-0154,2030-01-15T16:25:00,Osun,Osun LGA-3,SIM-00889,information_gap,Voters at Osun L3-W1 did not know which unit to go to.,1,citizen,False,False
+INC-0155,2030-01-15T07:11:00,Benue,Benue LGA-1,SIM-00008,logistics_delay,Materials arrived late at Benue L1-W2.,3,citizen,True,False
+INC-0156,2030-01-15T12:20:00,Imo,Imo LGA-1,SIM-00545,logistics_delay,Materials arrived late at Imo L1-W1.,2,simulated_agent,False,False
+INC-0157,2030-01-15T08:22:00,Kaduna,Kaduna LGA-3,SIM-00398,positive_practice,Officials at Kaduna L3-W2 assisted elderly voters promptly.,0,citizen,True,False
+INC-0158,2030-01-15T16:40:00,Niger,Niger LGA-2,SIM-00155,information_gap,Voters at Niger L2-W1 did not know which unit to go to.,2,observer,False,True
+INC-0159,2030-01-15T16:51:00,Delta,Delta LGA-3,SIM-00673,intimidation,Voters report being intimidated near Delta L3-W3.,4,simulated_agent,False,False
+INC-0160,2030-01-15T14:41:00,Ogun,Ogun LGA-2,SIM-00834,positive_practice,Officials at Ogun L2-W2 assisted elderly voters promptly.,0,citizen,True,False
+INC-0161,2030-01-15T17:06:00,Niger,Niger LGA-3,SIM-00179,queue_management,Very long queue and no shade at Niger L3-W3.,0,observer,True,False
+INC-0162,2030-01-15T10:23:00,Niger,Niger LGA-1,SIM-00138,information_gap,Voters at Niger L1-W1 did not know which unit to go to.,2,citizen,False,False
+INC-0163,2030-01-15T06:07:00,Osun,Osun LGA-1,SIM-00866,queue_management,Very long queue and no shade at Osun L1-W3.,0,citizen,False,False
+INC-0164,2030-01-15T12:46:00,Lagos,Lagos LGA-1,SIM-00729,information_gap,Voters at Lagos L1-W2 did not know which unit to go to.,1,citizen,False,False
+INC-0165,2030-01-15T08:51:00,Kano,Kano LGA-2,SIM-00340,information_gap,Voters at Kano L2-W2 did not know which unit to go to.,1,simulated_agent,True,False
+INC-0166,2030-01-15T18:34:00,Rivers,Rivers LGA-3,SIM-00626,equipment_failure,Card reader not working at Rivers L3-W3.,3,observer,False,False
+INC-0167,2030-01-15T13:09:00,Plateau,Plateau LGA-1,SIM-00100,information_gap,Voters at Plateau L1-W2 did not know which unit to go to.,2,citizen,True,False
+INC-0168,2030-01-15T08:36:00,Enugu,Enugu LGA-1,SIM-00460,queue_management,Very long queue and no shade at Enugu L1-W2.,2,simulated_agent,True,False
+INC-0169,2030-01-15T18:19:00,Anambra,Anambra LGA-3,SIM-00530,information_gap,Voters at Anambra L3-W1 did not know which unit to go to.,3,citizen,True,False
+INC-0170,2030-01-15T12:34:00,Enugu,Enugu LGA-1,SIM-00457,intimidation,Voters report being intimidated near Enugu L1-W2.,4,observer,False,False
+INC-0171,2030-01-15T17:45:00,Ogun,Ogun LGA-2,SIM-00833,logistics_delay,Materials arrived late at Ogun L2-W2.,1,simulated_agent,False,False
+INC-0172,2030-01-15T11:26:00,Borno,Borno LGA-1,SIM-00233,accessibility_barrier,Polling unit in Borno L1-W2 has steps and no ramp for wheelchair users.,3,citizen,False,False
+INC-0173,2030-01-15T18:55:00,Ogun,Ogun LGA-1,SIM-00815,positive_practice,Officials at Ogun L1-W1 assisted elderly voters promptly.,0,simulated_agent,False,False
+INC-0174,2030-01-15T07:08:00,Cross River,Cross River LGA-3,SIM-00708,intimidation,Voters report being intimidated near Cross River L3-W1.,4,observer,True,False
+INC-0175,2030-01-15T16:18:00,Anambra,Anambra LGA-3,SIM-00528,information_gap,Voters at Anambra L3-W1 did not know which unit to go to.,2,observer,False,False
+INC-0176,2030-01-15T14:20:00,Bauchi,Bauchi LGA-2,SIM-00205,accessibility_barrier,Polling unit in Bauchi L2-W2 has steps and no ramp for wheelchair users.,3,citizen,True,False
+INC-0177,2030-01-15T07:45:00,Enugu,Enugu LGA-2,SIM-00477,queue_management,Very long queue and no shade at Enugu L2-W3.,0,observer,True,False
+INC-0178,2030-01-15T17:34:00,Plateau,Plateau LGA-1,SIM-00097,equipment_failure,Card reader not working at Plateau L1-W2.,3,simulated_agent,True,True
+INC-0179,2030-01-15T12:21:00,Benue,Benue LGA-3,SIM-00035,equipment_failure,Card reader not working at Benue L3-W1.,3,simulated_agent,False,True
+INC-0180,2030-01-15T08:25:00,Borno,Borno LGA-2,SIM-00249,intimidation,Voters report being intimidated near Borno L2-W2.,4,observer,True,False
+INC-0181,2030-01-15T16:02:00,Bauchi,Bauchi LGA-3,SIM-00225,accessibility_barrier,Polling unit in Bauchi L3-W3 has steps and no ramp for wheelchair users.,4,citizen,True,False
+INC-0182,2030-01-15T11:10:00,Plateau,Plateau LGA-3,SIM-00122,information_gap,Voters at Plateau L3-W1 did not know which unit to go to.,3,citizen,False,False
+INC-0183,2030-01-15T12:56:00,Ogun,Ogun LGA-3,SIM-00854,positive_practice,Officials at Ogun L3-W3 assisted elderly voters promptly.,1,simulated_agent,False,False
+INC-0184,2030-01-15T13:23:00,Kwara,Kwara LGA-2,SIM-00063,equipment_failure,Card reader not working at Kwara L2-W1.,2,citizen,False,False
+INC-0185,2030-01-15T16:14:00,Plateau,Plateau LGA-1,SIM-00097,logistics_delay,Materials arrived late at Plateau L1-W2.,1,observer,False,False
+INC-0186,2030-01-15T06:59:00,Borno,Borno LGA-1,SIM-00226,queue_management,Very long queue and no shade at Borno L1-W1.,2,citizen,False,False
+INC-0187,2030-01-15T16:36:00,Ogun,Ogun LGA-3,SIM-00842,queue_management,Very long queue and no shade at Ogun L3-W1.,1,observer,False,True
+INC-0188,2030-01-15T09:21:00,Benue,Benue LGA-2,SIM-00017,information_gap,Voters at Benue L2-W1 did not know which unit to go to.,2,observer,False,True
+INC-0189,2030-01-15T17:31:00,Lagos,Lagos LGA-1,SIM-00729,accessibility_barrier,Polling unit in Lagos L1-W2 has steps and no ramp for wheelchair users.,3,simulated_agent,True,True
+INC-0190,2030-01-15T16:21:00,Borno,Borno LGA-2,SIM-00253,positive_practice,Officials at Borno L2-W3 assisted elderly voters promptly.,0,observer,False,False
+INC-0191,2030-01-15T16:00:00,Benue,Benue LGA-3,SIM-00037,equipment_failure,Card reader not working at Benue L3-W2.,4,simulated_agent,False,False
+INC-0192,2030-01-15T10:16:00,Imo,Imo LGA-1,SIM-00549,accessibility_barrier,Polling unit in Imo L1-W2 has steps and no ramp for wheelchair users.,4,observer,False,False
+INC-0193,2030-01-15T15:22:00,Niger,Niger LGA-1,SIM-00149,accessibility_barrier,Polling unit in Niger L1-W3 has steps and no ramp for wheelchair users.,4,citizen,True,False
+INC-0194,2030-01-15T14:54:00,Anambra,Anambra LGA-2,SIM-00512,positive_practice,Officials at Anambra L2-W1 assisted elderly voters promptly.,0,citizen,True,False
+INC-0195,2030-01-15T07:20:00,Niger,Niger LGA-3,SIM-00173,queue_management,Very long queue and no shade at Niger L3-W2.,1,citizen,False,False
+INC-0196,2030-01-15T11:41:00,Imo,Imo LGA-1,SIM-00554,queue_management,Very long queue and no shade at Imo L1-W3.,0,observer,True,False
+INC-0197,2030-01-15T08:43:00,Lagos,Lagos LGA-3,SIM-00757,accessibility_barrier,Polling unit in Lagos L3-W2 has steps and no ramp for wheelchair users.,2,simulated_agent,False,True
+INC-0198,2030-01-15T18:06:00,Bauchi,Bauchi LGA-1,SIM-00183,queue_management,Very long queue and no shade at Bauchi L1-W1.,2,observer,True,False
+INC-0199,2030-01-15T13:30:00,Lagos,Lagos LGA-2,SIM-00739,positive_practice,Officials at Lagos L2-W1 assisted elderly voters promptly.,0,observer,True,False
+INC-0200,2030-01-15T14:45:00,Kano,Kano LGA-3,SIM-00356,intimidation,Voters report being intimidated near Kano L3-W3.,3,observer,True,False
+INC-0201,2030-01-15T07:08:00,Niger,Niger LGA-3,SIM-00169,information_gap,Voters at Niger L3-W1 did not know which unit to go to.,2,observer,True,False
+INC-0202,2030-01-15T06:08:00,Kano,Kano LGA-3,SIM-00356,equipment_failure,Card reader not working at Kano L3-W3.,3,simulated_agent,True,True
+INC-0203,2030-01-15T12:46:00,Plateau,Plateau LGA-3,SIM-00131,accessibility_barrier,Polling unit in Plateau L3-W3 has steps and no ramp for wheelchair users.,4,simulated_agent,True,False
+INC-0204,2030-01-15T13:03:00,Cross River,Cross River LGA-2,SIM-00694,equipment_failure,Card reader not working at Cross River L2-W1.,3,observer,True,False
+INC-0205,2030-01-15T18:23:00,Kano,Kano LGA-2,SIM-00340,intimidation,Voters report being intimidated near Kano L2-W2.,3,citizen,False,True
+INC-0206,2030-01-15T09:31:00,Borno,Borno LGA-2,SIM-00247,intimidation,Voters report being intimidated near Borno L2-W2.,4,simulated_agent,True,True
+INC-0207,2030-01-15T08:15:00,Kaduna,Kaduna LGA-2,SIM-00382,accessibility_barrier,Polling unit in Kaduna L2-W2 has steps and no ramp for wheelchair users.,2,observer,False,False
+INC-0208,2030-01-15T11:32:00,Benue,Benue LGA-1,SIM-00006,logistics_delay,Materials arrived late at Benue L1-W2.,1,simulated_agent,False,False
+INC-0209,2030-01-15T07:16:00,Adamawa,Adamawa LGA-2,SIM-00296,positive_practice,Officials at Adamawa L2-W3 assisted elderly voters promptly.,0,observer,True,False
+INC-0210,2030-01-15T11:20:00,Osun,Osun LGA-2,SIM-00875,information_gap,Voters at Osun L2-W1 did not know which unit to go to.,1,simulated_agent,True,True
+INC-0211,2030-01-15T10:45:00,Plateau,Plateau LGA-1,SIM-00100,positive_practice,Officials at Plateau L1-W2 assisted elderly voters promptly.,0,citizen,True,True
+INC-0212,2030-01-15T11:25:00,Rivers,Rivers LGA-3,SIM-00630,queue_management,Very long queue and no shade at Rivers L3-W3.,1,simulated_agent,True,False
+INC-0213,2030-01-15T13:23:00,Cross River,Cross River LGA-2,SIM-00694,equipment_failure,Card reader not working at Cross River L2-W1.,3,observer,True,False
+INC-0214,2030-01-15T10:13:00,Rivers,Rivers LGA-2,SIM-00603,positive_practice,Officials at Rivers L2-W1 assisted elderly voters promptly.,0,citizen,True,False
+INC-0215,2030-01-15T18:14:00,Plateau,Plateau LGA-3,SIM-00122,logistics_delay,Materials arrived late at Plateau L3-W1.,1,simulated_agent,True,False
+INC-0216,2030-01-15T10:03:00,Bauchi,Bauchi LGA-2,SIM-00197,intimidation,Voters report being intimidated near Bauchi L2-W1.,4,simulated_agent,False,False
+INC-0217,2030-01-15T09:35:00,Kwara,Kwara LGA-3,SIM-00083,information_gap,Voters at Kwara L3-W2 did not know which unit to go to.,2,simulated_agent,False,False
+INC-0218,2030-01-15T10:14:00,Plateau,Plateau LGA-1,SIM-00097,information_gap,Voters at Plateau L1-W2 did not know which unit to go to.,3,citizen,True,False
+INC-0219,2030-01-15T07:53:00,Niger,Niger LGA-2,SIM-00165,queue_management,Very long queue and no shade at Niger L2-W3.,1,citizen,True,False
+INC-0220,2030-01-15T16:43:00,Anambra,Anambra LGA-1,SIM-00504,information_gap,Voters at Anambra L1-W2 did not know which unit to go to.,2,simulated_agent,False,False
+INC-0221,2030-01-15T06:19:00,Niger,Niger LGA-3,SIM-00178,accessibility_barrier,Polling unit in Niger L3-W3 has steps and no ramp for wheelchair users.,3,simulated_agent,False,True
+INC-0222,2030-01-15T09:09:00,Bauchi,Bauchi LGA-2,SIM-00204,positive_practice,Officials at Bauchi L2-W2 assisted elderly voters promptly.,1,observer,False,False
+INC-0223,2030-01-15T07:51:00,Ogun,Ogun LGA-3,SIM-00842,positive_practice,Officials at Ogun L3-W1 assisted elderly voters promptly.,0,simulated_agent,True,False
+INC-0224,2030-01-15T13:48:00,Adamawa,Adamawa LGA-3,SIM-00310,queue_management,Very long queue and no shade at Adamawa L3-W2.,0,simulated_agent,False,False
+INC-0225,2030-01-15T13:45:00,Kwara,Kwara LGA-1,SIM-00058,equipment_failure,Card reader not working at Kwara L1-W3.,4,citizen,True,False
+INC-0226,2030-01-15T06:06:00,Delta,Delta LGA-1,SIM-00636,accessibility_barrier,Polling unit in Delta L1-W2 has steps and no ramp for wheelchair users.,4,simulated_agent,False,True
+INC-0227,2030-01-15T07:13:00,Sokoto,Sokoto LGA-2,SIM-00427,equipment_failure,Card reader not working at Sokoto L2-W2.,2,citizen,True,True
+INC-0228,2030-01-15T16:31:00,Kwara,Kwara LGA-3,SIM-00084,logistics_delay,Materials arrived late at Kwara L3-W2.,2,observer,True,False
+INC-0229,2030-01-15T13:32:00,Imo,Imo LGA-2,SIM-00559,positive_practice,Officials at Imo L2-W1 assisted elderly voters promptly.,0,observer,True,False
+INC-0230,2030-01-15T10:15:00,Oyo,Oyo LGA-1,SIM-00776,equipment_failure,Card reader not working at Oyo L1-W3.,3,citizen,True,False
+INC-0231,2030-01-15T17:22:00,Adamawa,Adamawa LGA-1,SIM-00280,information_gap,Voters at Adamawa L1-W2 did not know which unit to go to.,2,citizen,True,True
+INC-0232,2030-01-15T15:25:00,Kwara,Kwara LGA-2,SIM-00071,accessibility_barrier,Polling unit in Kwara L2-W3 has steps and no ramp for wheelchair users.,2,citizen,True,False
+INC-0233,2030-01-15T11:00:00,Kaduna,Kaduna LGA-2,SIM-00381,queue_management,Very long queue and no shade at Kaduna L2-W2.,2,simulated_agent,True,True
+INC-0234,2030-01-15T10:10:00,Kano,Kano LGA-2,SIM-00338,intimidation,Voters report being intimidated near Kano L2-W2.,4,observer,False,True
+INC-0235,2030-01-15T06:07:00,Anambra,Anambra LGA-3,SIM-00527,positive_practice,Officials at Anambra L3-W1 assisted elderly voters promptly.,0,observer,True,False
+INC-0236,2030-01-15T18:04:00,Borno,Borno LGA-2,SIM-00251,intimidation,Voters report being intimidated near Borno L2-W3.,4,observer,True,False
+INC-0237,2030-01-15T10:01:00,Plateau,Plateau LGA-3,SIM-00127,accessibility_barrier,Polling unit in Plateau L3-W2 has steps and no ramp for wheelchair users.,3,citizen,False,False
+INC-0238,2030-01-15T15:07:00,Kwara,Kwara LGA-2,SIM-00069,queue_management,Very long queue and no shade at Kwara L2-W2.,2,observer,False,False
+INC-0239,2030-01-15T08:47:00,Lagos,Lagos LGA-3,SIM-00759,accessibility_barrier,Polling unit in Lagos L3-W2 has steps and no ramp for wheelchair users.,2,simulated_agent,True,False
+INC-0240,2030-01-15T16:00:00,Bauchi,Bauchi LGA-2,SIM-00201,logistics_delay,Materials arrived late at Bauchi L2-W2.,2,citizen,True,False
+INC-0241,2030-01-15T10:29:00,Sokoto,Sokoto LGA-2,SIM-00427,intimidation,Voters report being intimidated near Sokoto L2-W2.,3,simulated_agent,True,False
+INC-0242,2030-01-15T10:58:00,Osun,Osun LGA-3,SIM-00898,intimidation,Voters report being intimidated near Osun L3-W3.,4,citizen,True,False
+INC-0243,2030-01-15T13:07:00,Oyo,Oyo LGA-3,SIM-00808,accessibility_barrier,Polling unit in Oyo L3-W3 has steps and no ramp for wheelchair users.,3,citizen,False,True
+INC-0244,2030-01-15T14:04:00,Kwara,Kwara LGA-1,SIM-00051,information_gap,Voters at Kwara L1-W2 did not know which unit to go to.,3,citizen,True,True
+INC-0245,2030-01-15T16:58:00,Niger,Niger LGA-2,SIM-00154,accessibility_barrier,Polling unit in Niger L2-W1 has steps and no ramp for wheelchair users.,3,observer,False,False
+INC-0246,2030-01-15T11:44:00,Adamawa,Adamawa LGA-2,SIM-00289,equipment_failure,Card reader not working at Adamawa L2-W1.,3,citizen,False,True
+INC-0247,2030-01-15T06:59:00,Niger,Niger LGA-2,SIM-00164,intimidation,Voters report being intimidated near Niger L2-W3.,3,observer,True,False
+INC-0248,2030-01-15T12:35:00,Bauchi,Bauchi LGA-2,SIM-00206,accessibility_barrier,Polling unit in Bauchi L2-W3 has steps and no ramp for wheelchair users.,3,observer,False,False
+INC-0249,2030-01-15T10:22:00,Kaduna,Kaduna LGA-3,SIM-00401,queue_management,Very long queue and no shade at Kaduna L3-W3.,1,simulated_agent,True,True
+INC-0250,2030-01-15T14:00:00,Borno,Borno LGA-2,SIM-00253,positive_practice,Officials at Borno L2-W3 assisted elderly voters promptly.,0,simulated_agent,True,False
+INC-0251,2030-01-15T13:19:00,Niger,Niger LGA-3,SIM-00180,information_gap,Voters at Niger L3-W3 did not know which unit to go to.,2,simulated_agent,True,False
+INC-0252,2030-01-15T08:30:00,Benue,Benue LGA-3,SIM-00038,logistics_delay,Materials arrived late at Benue L3-W2.,1,observer,True,False
+INC-0253,2030-01-15T15:10:00,Osun,Osun LGA-2,SIM-00872,intimidation,Voters report being intimidated near Osun L2-W1.,4,observer,False,False
+INC-0254,2030-01-15T10:24:00,Adamawa,Adamawa LGA-3,SIM-00313,equipment_failure,Card reader not working at Adamawa L3-W3.,3,simulated_agent,False,False
+INC-0255,2030-01-15T17:14:00,Bauchi,Bauchi LGA-3,SIM-00212,logistics_delay,Materials arrived late at Bauchi L3-W1.,1,citizen,True,False
+INC-0256,2030-01-15T18:35:00,Plateau,Plateau LGA-1,SIM-00094,equipment_failure,Card reader not working at Plateau L1-W1.,3,observer,True,False
+INC-0257,2030-01-15T11:43:00,Ogun,Ogun LGA-2,SIM-00831,accessibility_barrier,Polling unit in Ogun L2-W2 has steps and no ramp for wheelchair users.,3,simulated_agent,True,False
+INC-0258,2030-01-15T09:47:00,Niger,Niger LGA-3,SIM-00173,logistics_delay,Materials arrived late at Niger L3-W2.,2,simulated_agent,True,True
+INC-0259,2030-01-15T15:45:00,Plateau,Plateau LGA-2,SIM-00120,logistics_delay,Materials arrived late at Plateau L2-W3.,2,citizen,True,False
+INC-0260,2030-01-15T11:46:00,Kaduna,Kaduna LGA-2,SIM-00382,equipment_failure,Card reader not working at Kaduna L2-W2.,2,observer,False,False
+INC-0261,2030-01-15T08:07:00,Plateau,Plateau LGA-1,SIM-00097,logistics_delay,Materials arrived late at Plateau L1-W2.,3,simulated_agent,True,False
+INC-0262,2030-01-15T06:09:00,Oyo,Oyo LGA-2,SIM-00785,intimidation,Voters report being intimidated near Oyo L2-W1.,4,observer,True,False
+INC-0263,2030-01-15T18:53:00,Kaduna,Kaduna LGA-1,SIM-00371,intimidation,Voters report being intimidated near Kaduna L1-W3.,4,simulated_agent,True,False
+INC-0264,2030-01-15T16:00:00,Plateau,Plateau LGA-3,SIM-00128,logistics_delay,Materials arrived late at Plateau L3-W2.,1,simulated_agent,False,False
+INC-0265,2030-01-15T16:23:00,Plateau,Plateau LGA-2,SIM-00117,information_gap,Voters at Plateau L2-W3 did not know which unit to go to.,1,simulated_agent,True,False
+INC-0266,2030-01-15T08:26:00,Bauchi,Bauchi LGA-3,SIM-00220,positive_practice,Officials at Bauchi L3-W2 assisted elderly voters promptly.,1,citizen,False,False
+INC-0267,2030-01-15T11:12:00,Oyo,Oyo LGA-1,SIM-00767,intimidation,Voters report being intimidated near Oyo L1-W1.,3,observer,True,False
+INC-0268,2030-01-15T17:24:00,Lagos,Lagos LGA-1,SIM-00735,intimidation,Voters report being intimidated near Lagos L1-W3.,4,simulated_agent,True,True
+INC-0269,2030-01-15T09:20:00,Enugu,Enugu LGA-2,SIM-00473,information_gap,Voters at Enugu L2-W2 did not know which unit to go to.,1,citizen,False,False
+INC-0270,2030-01-15T17:08:00,Benue,Benue LGA-2,SIM-00020,accessibility_barrier,Polling unit in Benue L2-W1 has steps and no ramp for wheelchair users.,4,simulated_agent,True,False
+INC-0271,2030-01-15T06:13:00,Niger,Niger LGA-2,SIM-00155,equipment_failure,Card reader not working at Niger L2-W1.,3,citizen,True,False
+INC-0272,2030-01-15T11:11:00,Delta,Delta LGA-2,SIM-00654,positive_practice,Officials at Delta L2-W2 assisted elderly voters promptly.,0,observer,True,True
+INC-0273,2030-01-15T17:47:00,Imo,Imo LGA-3,SIM-00575,intimidation,Voters report being intimidated near Imo L3-W1.,4,simulated_agent,False,False
+INC-0274,2030-01-15T16:25:00,Imo,Imo LGA-3,SIM-00571,information_gap,Voters at Imo L3-W1 did not know which unit to go to.,1,citizen,False,True
+INC-0275,2030-01-15T07:17:00,Enugu,Enugu LGA-3,SIM-00489,equipment_failure,Card reader not working at Enugu L3-W2.,3,simulated_agent,True,False
+INC-0276,2030-01-15T07:45:00,Benue,Benue LGA-2,SIM-00026,intimidation,Voters report being intimidated near Benue L2-W3.,4,simulated_agent,True,False
+INC-0277,2030-01-15T09:45:00,Niger,Niger LGA-2,SIM-00155,intimidation,Voters report being intimidated near Niger L2-W1.,3,simulated_agent,True,False
+INC-0278,2030-01-15T10:03:00,Anambra,Anambra LGA-2,SIM-00516,information_gap,Voters at Anambra L2-W2 did not know which unit to go to.,1,observer,True,True
+INC-0279,2030-01-15T07:05:00,Oyo,Oyo LGA-3,SIM-00796,queue_management,Very long queue and no shade at Oyo L3-W1.,2,observer,True,False
+INC-0280,2030-01-15T13:56:00,Ogun,Ogun LGA-3,SIM-00843,information_gap,Voters at Ogun L3-W1 did not know which unit to go to.,2,observer,True,False
+INC-0281,2030-01-15T07:30:00,Imo,Imo LGA-2,SIM-00570,equipment_failure,Card reader not working at Imo L2-W3.,2,citizen,False,False
+INC-0282,2030-01-15T14:19:00,Bauchi,Bauchi LGA-3,SIM-00223,accessibility_barrier,Polling unit in Bauchi L3-W3 has steps and no ramp for wheelchair users.,3,citizen,False,False
+INC-0283,2030-01-15T18:35:00,Lagos,Lagos LGA-2,SIM-00748,logistics_delay,Materials arrived late at Lagos L2-W3.,2,simulated_agent,False,False
+INC-0284,2030-01-15T15:27:00,Rivers,Rivers LGA-3,SIM-00620,positive_practice,Officials at Rivers L3-W1 assisted elderly voters promptly.,1,observer,False,True
+INC-0285,2030-01-15T07:13:00,Kano,Kano LGA-3,SIM-00354,information_gap,Voters at Kano L3-W2 did not know which unit to go to.,2,simulated_agent,False,False
+INC-0286,2030-01-15T18:21:00,Kaduna,Kaduna LGA-2,SIM-00389,information_gap,Voters at Kaduna L2-W3 did not know which unit to go to.,2,citizen,False,True
+INC-0287,2030-01-15T09:33:00,Lagos,Lagos LGA-3,SIM-00751,positive_practice,Officials at Lagos L3-W1 assisted elderly voters promptly.,0,observer,True,False
+INC-0288,2030-01-15T06:30:00,Anambra,Anambra LGA-1,SIM-00502,intimidation,Voters report being intimidated near Anambra L1-W2.,4,simulated_agent,False,False
+INC-0289,2030-01-15T09:28:00,Benue,Benue LGA-3,SIM-00036,logistics_delay,Materials arrived late at Benue L3-W2.,3,simulated_agent,True,True
+INC-0290,2030-01-15T14:03:00,Niger,Niger LGA-2,SIM-00157,logistics_delay,Materials arrived late at Niger L2-W2.,2,citizen,True,False
+INC-0291,2030-01-15T15:27:00,Bauchi,Bauchi LGA-2,SIM-00198,intimidation,Voters report being intimidated near Bauchi L2-W1.,4,citizen,True,True
+INC-0292,2030-01-15T12:24:00,Imo,Imo LGA-2,SIM-00557,queue_management,Very long queue and no shade at Imo L2-W1.,0,simulated_agent,True,False
+INC-0293,2030-01-15T13:35:00,Anambra,Anambra LGA-1,SIM-00504,equipment_failure,Card reader not working at Anambra L1-W2.,3,observer,False,False
+INC-0294,2030-01-15T15:36:00,Delta,Delta LGA-3,SIM-00668,logistics_delay,Materials arrived late at Delta L3-W2.,3,simulated_agent,False,True
+INC-0295,2030-01-15T11:34:00,Ogun,Ogun LGA-2,SIM-00832,information_gap,Voters at Ogun L2-W2 did not know which unit to go to.,1,simulated_agent,True,False
+INC-0296,2030-01-15T13:31:00,Cross River,Cross River LGA-2,SIM-00701,accessibility_barrier,Polling unit in Cross River L2-W3 has steps and no ramp for wheelchair users.,3,observer,False,False
+INC-0297,2030-01-15T08:45:00,Ogun,Ogun LGA-3,SIM-00847,positive_practice,Officials at Ogun L3-W2 assisted elderly voters promptly.,0,citizen,True,False
+INC-0298,2030-01-15T06:43:00,Cross River,Cross River LGA-1,SIM-00685,information_gap,Voters at Cross River L1-W2 did not know which unit to go to.,3,observer,True,False
+INC-0299,2030-01-15T15:23:00,Bauchi,Bauchi LGA-2,SIM-00204,queue_management,Very long queue and no shade at Bauchi L2-W2.,1,citizen,False,False
+INC-0300,2030-01-15T14:49:00,Oyo,Oyo LGA-2,SIM-00783,intimidation,Voters report being intimidated near Oyo L2-W1.,4,citizen,True,True
+INC-0301,2030-01-15T16:38:00,Oyo,Oyo LGA-2,SIM-00788,equipment_failure,Card reader not working at Oyo L2-W2.,2,simulated_agent,True,False
+INC-0302,2030-01-15T15:07:00,Lagos,Lagos LGA-3,SIM-00752,intimidation,Voters report being intimidated near Lagos L3-W1.,3,observer,True,True
+INC-0303,2030-01-15T10:30:00,Cross River,Cross River LGA-2,SIM-00699,positive_practice,Officials at Cross River L2-W2 assisted elderly voters promptly.,0,simulated_agent,False,False
+INC-0304,2030-01-15T17:21:00,Bauchi,Bauchi LGA-1,SIM-00195,logistics_delay,Materials arrived late at Bauchi L1-W3.,3,simulated_agent,True,False
+INC-0305,2030-01-15T13:30:00,Ogun,Ogun LGA-3,SIM-00842,intimidation,Voters report being intimidated near Ogun L3-W1.,4,citizen,True,False
+INC-0306,2030-01-15T14:28:00,Cross River,Cross River LGA-1,SIM-00680,equipment_failure,Card reader not working at Cross River L1-W1.,4,citizen,True,False
+INC-0307,2030-01-15T11:25:00,Osun,Osun LGA-2,SIM-00885,equipment_failure,Card reader not working at Osun L2-W3.,3,observer,True,False
+INC-0308,2030-01-15T16:09:00,Anambra,Anambra LGA-1,SIM-00510,information_gap,Voters at Anambra L1-W3 did not know which unit to go to.,2,observer,True,True
+INC-0309,2030-01-15T15:48:00,Rivers,Rivers LGA-2,SIM-00608,equipment_failure,Card reader not working at Rivers L2-W2.,4,citizen,True,False
+INC-0310,2030-01-15T13:13:00,Osun,Osun LGA-3,SIM-00899,accessibility_barrier,Polling unit in Osun L3-W3 has steps and no ramp for wheelchair users.,2,simulated_agent,False,False
+INC-0311,2030-01-15T15:46:00,Borno,Borno LGA-2,SIM-00244,information_gap,Voters at Borno L2-W1 did not know which unit to go to.,3,observer,False,False
+INC-0312,2030-01-15T06:25:00,Plateau,Plateau LGA-2,SIM-00106,intimidation,Voters report being intimidated near Plateau L2-W1.,4,citizen,False,False
+INC-0313,2030-01-15T17:18:00,Kwara,Kwara LGA-3,SIM-00081,equipment_failure,Card reader not working at Kwara L3-W2.,4,observer,True,False
+INC-0314,2030-01-15T07:35:00,Lagos,Lagos LGA-1,SIM-00726,positive_practice,Officials at Lagos L1-W2 assisted elderly voters promptly.,0,simulated_agent,True,False
+INC-0315,2030-01-15T06:23:00,Rivers,Rivers LGA-1,SIM-00594,positive_practice,Officials at Rivers L1-W2 assisted elderly voters promptly.,0,observer,True,False
+INC-0316,2030-01-15T18:46:00,Imo,Imo LGA-1,SIM-00546,equipment_failure,Card reader not working at Imo L1-W2.,4,simulated_agent,False,True
+INC-0317,2030-01-15T08:49:00,Imo,Imo LGA-2,SIM-00564,intimidation,Voters report being intimidated near Imo L2-W2.,4,simulated_agent,False,False
+INC-0318,2030-01-15T08:40:00,Benue,Benue LGA-2,SIM-00029,positive_practice,Officials at Benue L2-W3 assisted elderly voters promptly.,0,simulated_agent,True,False
+INC-0319,2030-01-15T16:40:00,Cross River,Cross River LGA-2,SIM-00695,positive_practice,Officials at Cross River L2-W1 assisted elderly voters promptly.,1,simulated_agent,True,False
+INC-0320,2030-01-15T17:19:00,Adamawa,Adamawa LGA-1,SIM-00284,positive_practice,Officials at Adamawa L1-W3 assisted elderly voters promptly.,0,observer,True,False
+INC-0321,2030-01-15T06:55:00,Kwara,Kwara LGA-1,SIM-00059,equipment_failure,Card reader not working at Kwara L1-W3.,3,observer,True,True
+INC-0322,2030-01-15T18:33:00,Imo,Imo LGA-3,SIM-00579,equipment_failure,Card reader not working at Imo L3-W2.,2,citizen,True,True
+INC-0323,2030-01-15T12:19:00,Kaduna,Kaduna LGA-2,SIM-00382,equipment_failure,Card reader not working at Kaduna L2-W2.,3,observer,True,False
+INC-0324,2030-01-15T07:53:00,Enugu,Enugu LGA-2,SIM-00466,equipment_failure,Card reader not working at Enugu L2-W1.,3,citizen,False,False
+INC-0325,2030-01-15T11:44:00,Niger,Niger LGA-2,SIM-00154,accessibility_barrier,Polling unit in Niger L2-W1 has steps and no ramp for wheelchair users.,3,citizen,False,False
+INC-0326,2030-01-15T06:46:00,Rivers,Rivers LGA-3,SIM-00624,accessibility_barrier,Polling unit in Rivers L3-W2 has steps and no ramp for wheelchair users.,3,citizen,True,True
+INC-0327,2030-01-15T16:33:00,Plateau,Plateau LGA-2,SIM-00110,intimidation,Voters report being intimidated near Plateau L2-W1.,4,observer,True,False
+INC-0328,2030-01-15T14:24:00,Imo,Imo LGA-1,SIM-00551,accessibility_barrier,Polling unit in Imo L1-W3 has steps and no ramp for wheelchair users.,2,citizen,True,True
+INC-0329,2030-01-15T17:45:00,Kano,Kano LGA-2,SIM-00334,information_gap,Voters at Kano L2-W1 did not know which unit to go to.,2,observer,False,False
+INC-0330,2030-01-15T15:16:00,Plateau,Plateau LGA-2,SIM-00107,queue_management,Very long queue and no shade at Plateau L2-W1.,2,simulated_agent,True,False
+INC-0331,2030-01-15T18:11:00,Sokoto,Sokoto LGA-2,SIM-00426,positive_practice,Officials at Sokoto L2-W2 assisted elderly voters promptly.,0,citizen,False,False
+INC-0332,2030-01-15T06:22:00,Anambra,Anambra LGA-3,SIM-00538,accessibility_barrier,Polling unit in Anambra L3-W3 has steps and no ramp for wheelchair users.,2,citizen,True,True
+INC-0333,2030-01-15T12:28:00,Osun,Osun LGA-2,SIM-00874,intimidation,Voters report being intimidated near Osun L2-W1.,4,simulated_agent,False,False
+INC-0334,2030-01-15T17:26:00,Adamawa,Adamawa LGA-2,SIM-00299,information_gap,Voters at Adamawa L2-W3 did not know which unit to go to.,1,observer,True,True
+INC-0335,2030-01-15T17:46:00,Osun,Osun LGA-2,SIM-00883,logistics_delay,Materials arrived late at Osun L2-W3.,1,citizen,False,False
+INC-0336,2030-01-15T06:27:00,Imo,Imo LGA-3,SIM-00584,information_gap,Voters at Imo L3-W3 did not know which unit to go to.,2,citizen,False,False
+INC-0337,2030-01-15T15:26:00,Kwara,Kwara LGA-3,SIM-00076,accessibility_barrier,Polling unit in Kwara L3-W1 has steps and no ramp for wheelchair users.,4,simulated_agent,False,False
+INC-0338,2030-01-15T17:15:00,Osun,Osun LGA-1,SIM-00858,queue_management,Very long queue and no shade at Osun L1-W1.,1,citizen,False,False
+INC-0339,2030-01-15T09:40:00,Enugu,Enugu LGA-3,SIM-00493,logistics_delay,Materials arrived late at Enugu L3-W3.,1,observer,False,True
+INC-0340,2030-01-15T08:57:00,Anambra,Anambra LGA-1,SIM-00496,logistics_delay,Materials arrived late at Anambra L1-W1.,2,simulated_agent,True,False
+INC-0341,2030-01-15T17:03:00,Enugu,Enugu LGA-1,SIM-00458,positive_practice,Officials at Enugu L1-W2 assisted elderly voters promptly.,0,simulated_agent,False,False
+INC-0342,2030-01-15T13:01:00,Cross River,Cross River LGA-2,SIM-00692,logistics_delay,Materials arrived late at Cross River L2-W1.,2,observer,True,False
+INC-0343,2030-01-15T12:21:00,Plateau,Plateau LGA-2,SIM-00116,queue_management,Very long queue and no shade at Plateau L2-W3.,1,observer,False,False
+INC-0344,2030-01-15T16:20:00,Cross River,Cross River LGA-2,SIM-00702,logistics_delay,Materials arrived late at Cross River L2-W3.,2,simulated_agent,True,True
+INC-0345,2030-01-15T12:24:00,Osun,Osun LGA-3,SIM-00899,accessibility_barrier,Polling unit in Osun L3-W3 has steps and no ramp for wheelchair users.,3,simulated_agent,False,False
+INC-0346,2030-01-15T07:39:00,Plateau,Plateau LGA-3,SIM-00131,intimidation,Voters report being intimidated near Plateau L3-W3.,4,observer,False,False
+INC-0347,2030-01-15T08:58:00,Borno,Borno LGA-2,SIM-00249,positive_practice,Officials at Borno L2-W2 assisted elderly voters promptly.,0,citizen,False,False
+INC-0348,2030-01-15T14:38:00,Bauchi,Bauchi LGA-3,SIM-00223,accessibility_barrier,Polling unit in Bauchi L3-W3 has steps and no ramp for wheelchair users.,3,simulated_agent,True,False
+INC-0349,2030-01-15T18:53:00,Niger,Niger LGA-1,SIM-00148,logistics_delay,Materials arrived late at Niger L1-W3.,2,simulated_agent,True,True
+INC-0350,2030-01-15T13:12:00,Lagos,Lagos LGA-2,SIM-00742,queue_management,Very long queue and no shade at Lagos L2-W2.,1,citizen,False,True
+INC-0351,2030-01-15T14:09:00,Rivers,Rivers LGA-1,SIM-00597,accessibility_barrier,Polling unit in Rivers L1-W3 has steps and no ramp for wheelchair users.,2,citizen,True,False
+INC-0352,2030-01-15T08:43:00,Enugu,Enugu LGA-1,SIM-00462,logistics_delay,Materials arrived late at Enugu L1-W3.,1,observer,True,False
+INC-0353,2030-01-15T07:08:00,Oyo,Oyo LGA-2,SIM-00795,positive_practice,Officials at Oyo L2-W3 assisted elderly voters promptly.,1,simulated_agent,True,False
+INC-0354,2030-01-15T15:18:00,Bauchi,Bauchi LGA-3,SIM-00225,accessibility_barrier,Polling unit in Bauchi L3-W3 has steps and no ramp for wheelchair users.,4,observer,False,False
+INC-0355,2030-01-15T16:38:00,Cross River,Cross River LGA-1,SIM-00686,equipment_failure,Card reader not working at Cross River L1-W3.,4,citizen,False,True
+INC-0356,2030-01-15T09:30:00,Rivers,Rivers LGA-2,SIM-00614,accessibility_barrier,Polling unit in Rivers L2-W3 has steps and no ramp for wheelchair users.,3,citizen,True,False
+INC-0357,2030-01-15T07:55:00,Enugu,Enugu LGA-3,SIM-00485,queue_management,Very long queue and no shade at Enugu L3-W1.,1,observer,False,False
+INC-0358,2030-01-15T16:49:00,Kwara,Kwara LGA-3,SIM-00081,logistics_delay,Materials arrived late at Kwara L3-W2.,3,citizen,False,True
+INC-0359,2030-01-15T14:00:00,Plateau,Plateau LGA-1,SIM-00101,queue_management,Very long queue and no shade at Plateau L1-W3.,2,observer,True,False
+INC-0360,2030-01-15T18:08:00,Plateau,Plateau LGA-3,SIM-00125,queue_management,Very long queue and no shade at Plateau L3-W1.,0,simulated_agent,True,False
+INC-0361,2030-01-15T08:06:00,Niger,Niger LGA-1,SIM-00148,queue_management,Very long queue and no shade at Niger L1-W3.,1,simulated_agent,True,False
+INC-0362,2030-01-15T09:17:00,Lagos,Lagos LGA-3,SIM-00764,queue_management,Very long queue and no shade at Lagos L3-W3.,2,simulated_agent,True,False
+INC-0363,2030-01-15T07:47:00,Kaduna,Kaduna LGA-2,SIM-00382,information_gap,Voters at Kaduna L2-W2 did not know which unit to go to.,3,citizen,True,False
+INC-0364,2030-01-15T17:42:00,Benue,Benue LGA-1,SIM-00014,information_gap,Voters at Benue L1-W3 did not know which unit to go to.,1,observer,True,False
+INC-0365,2030-01-15T08:46:00,Bauchi,Bauchi LGA-1,SIM-00187,information_gap,Voters at Bauchi L1-W2 did not know which unit to go to.,2,simulated_agent,True,False
+INC-0366,2030-01-15T07:11:00,Sokoto,Sokoto LGA-1,SIM-00411,logistics_delay,Materials arrived late at Sokoto L1-W2.,2,observer,False,True
+INC-0367,2030-01-15T12:24:00,Anambra,Anambra LGA-1,SIM-00507,logistics_delay,Materials arrived late at Anambra L1-W3.,2,simulated_agent,False,True
+INC-0368,2030-01-15T12:01:00,Kano,Kano LGA-1,SIM-00326,equipment_failure,Card reader not working at Kano L1-W3.,3,observer,False,False
+INC-0369,2030-01-15T18:07:00,Kwara,Kwara LGA-1,SIM-00049,equipment_failure,Card reader not working at Kwara L1-W1.,3,simulated_agent,False,False
+INC-0370,2030-01-15T17:20:00,Imo,Imo LGA-1,SIM-00546,positive_practice,Officials at Imo L1-W2 assisted elderly voters promptly.,1,simulated_agent,False,False
+INC-0371,2030-01-15T08:44:00,Kaduna,Kaduna LGA-3,SIM-00392,accessibility_barrier,Polling unit in Kaduna L3-W1 has steps and no ramp for wheelchair users.,4,citizen,False,False
+INC-0372,2030-01-15T16:37:00,Enugu,Enugu LGA-2,SIM-00476,intimidation,Voters report being intimidated near Enugu L2-W3.,4,citizen,True,False
+INC-0373,2030-01-15T07:37:00,Bauchi,Bauchi LGA-3,SIM-00212,intimidation,Voters report being intimidated near Bauchi L3-W1.,3,observer,False,False
+INC-0374,2030-01-15T08:38:00,Imo,Imo LGA-2,SIM-00561,intimidation,Voters report being intimidated near Imo L2-W2.,4,citizen,True,True
+INC-0375,2030-01-15T06:03:00,Lagos,Lagos LGA-1,SIM-00731,accessibility_barrier,Polling unit in Lagos L1-W3 has steps and no ramp for wheelchair users.,3,citizen,False,True
+INC-0376,2030-01-15T08:46:00,Lagos,Lagos LGA-2,SIM-00745,logistics_delay,Materials arrived late at Lagos L2-W2.,3,observer,True,True
+INC-0377,2030-01-15T09:21:00,Rivers,Rivers LGA-3,SIM-00619,equipment_failure,Card reader not working at Rivers L3-W1.,2,observer,False,False
+INC-0378,2030-01-15T07:30:00,Anambra,Anambra LGA-1,SIM-00499,positive_practice,Officials at Anambra L1-W1 assisted elderly voters promptly.,1,simulated_agent,True,False
+INC-0379,2030-01-15T14:33:00,Niger,Niger LGA-1,SIM-00138,queue_management,Very long queue and no shade at Niger L1-W1.,0,observer,False,False
+INC-0380,2030-01-15T12:27:00,Bauchi,Bauchi LGA-2,SIM-00208,positive_practice,Officials at Bauchi L2-W3 assisted elderly voters promptly.,1,citizen,True,False
+INC-0381,2030-01-15T11:03:00,Osun,Osun LGA-3,SIM-00890,equipment_failure,Card reader not working at Osun L3-W1.,3,observer,True,False
+INC-0382,2030-01-15T16:28:00,Anambra,Anambra LGA-1,SIM-00509,intimidation,Voters report being intimidated near Anambra L1-W3.,3,citizen,True,False
+INC-0383,2030-01-15T14:03:00,Ogun,Ogun LGA-2,SIM-00826,positive_practice,Officials at Ogun L2-W1 assisted elderly voters promptly.,0,observer,True,False
+INC-0384,2030-01-15T15:32:00,Oyo,Oyo LGA-3,SIM-00807,logistics_delay,Materials arrived late at Oyo L3-W3.,2,observer,True,False
+INC-0385,2030-01-15T14:48:00,Niger,Niger LGA-1,SIM-00141,intimidation,Voters report being intimidated near Niger L1-W2.,4,simulated_agent,True,False
+INC-0386,2030-01-15T16:56:00,Lagos,Lagos LGA-2,SIM-00739,intimidation,Voters report being intimidated near Lagos L2-W1.,4,simulated_agent,False,False
+INC-0387,2030-01-15T06:16:00,Benue,Benue LGA-1,SIM-00003,equipment_failure,Card reader not working at Benue L1-W1.,2,simulated_agent,True,True
+INC-0388,2030-01-15T07:22:00,Borno,Borno LGA-1,SIM-00238,logistics_delay,Materials arrived late at Borno L1-W3.,2,citizen,True,False
+INC-0389,2030-01-15T07:55:00,Niger,Niger LGA-2,SIM-00165,equipment_failure,Card reader not working at Niger L2-W3.,2,observer,False,False
+INC-0390,2030-01-15T11:42:00,Kwara,Kwara LGA-3,SIM-00084,positive_practice,Officials at Kwara L3-W2 assisted elderly voters promptly.,1,observer,True,False
+INC-0391,2030-01-15T15:27:00,Delta,Delta LGA-2,SIM-00660,information_gap,Voters at Delta L2-W3 did not know which unit to go to.,3,simulated_agent,False,False
+INC-0392,2030-01-15T09:22:00,Cross River,Cross River LGA-3,SIM-00708,equipment_failure,Card reader not working at Cross River L3-W1.,4,observer,True,False
+INC-0393,2030-01-15T16:15:00,Plateau,Plateau LGA-3,SIM-00132,intimidation,Voters report being intimidated near Plateau L3-W3.,4,citizen,True,True
+INC-0394,2030-01-15T18:39:00,Enugu,Enugu LGA-3,SIM-00490,intimidation,Voters report being intimidated near Enugu L3-W2.,3,citizen,True,False
+INC-0395,2030-01-15T14:03:00,Enugu,Enugu LGA-1,SIM-00460,accessibility_barrier,Polling unit in Enugu L1-W2 has steps and no ramp for wheelchair users.,3,simulated_agent,True,True
+INC-0396,2030-01-15T18:34:00,Oyo,Oyo LGA-1,SIM-00780,positive_practice,Officials at Oyo L1-W3 assisted elderly voters promptly.,1,observer,False,False
+INC-0397,2030-01-15T11:30:00,Bauchi,Bauchi LGA-1,SIM-00192,logistics_delay,Materials arrived late at Bauchi L1-W3.,2,observer,True,False
+INC-0398,2030-01-15T07:45:00,Kano,Kano LGA-1,SIM-00322,information_gap,Voters at Kano L1-W2 did not know which unit to go to.,1,simulated_agent,True,True
+INC-0399,2030-01-15T17:54:00,Plateau,Plateau LGA-2,SIM-00117,queue_management,Very long queue and no shade at Plateau L2-W3.,2,observer,True,True
+INC-0400,2030-01-15T09:01:00,Lagos,Lagos LGA-2,SIM-00747,intimidation,Voters report being intimidated near Lagos L2-W3.,3,simulated_agent,False,False
