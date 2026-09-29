@@ -1,4 +1,4 @@
-# AI4Elections Hackathon: Public Repository
+# #AI4Elections Hackathon: Public Repository
 
 **Artificial Intelligence for Electoral Innovation, Integrity and Inclusion**
 
