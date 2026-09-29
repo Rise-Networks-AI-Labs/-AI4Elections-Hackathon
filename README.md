@@ -65,13 +65,13 @@ Participants who do not have access to a suitable local development environment 
 
 The repository contains the following main sections:
 
-* **data/** — Synthetic starter datasets and supporting documentation.
-* **docs/** — Challenge briefs, curriculum, onboarding materials, bootcamp resources and documentation templates.
-* **notebooks/** — Starter notebooks and technical examples.
-* **src/** — Helper code and data-loading utilities.
-* **tools/** — Scripts for generating and working with the starter materials.
-* **requirements.txt** — Python dependencies for the starter environment.
-* **LICENSE** — Repository licensing information.
+* **data/** - Synthetic starter datasets and supporting documentation.
+* **docs/** - Challenge briefs, curriculum, onboarding materials, bootcamp resources and documentation templates.
+* **notebooks/** - Starter notebooks and technical examples.
+* **src/** - Helper code and data-loading utilities.
+* **tools/** - Scripts for generating and working with the starter materials.
+* **requirements.txt** - Python dependencies for the starter environment.
+* **LICENSE** - Repository licensing information.
 
 ## Key Principles
 
