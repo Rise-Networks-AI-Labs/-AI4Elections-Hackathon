@@ -1,6 +1,6 @@
 # General Technical Rules (All Tracks)
 
-Applies to every team. Source: #AI4Elections Concept Document, Sections 6, 8, 12, 16.
+Applies to every team.
 
 ## Non-negotiables
 1. **Nonpartisan.** No campaign tech, voter persuasion, microtargeting or manipulation of participation.
@@ -25,10 +25,6 @@ Applies to every team. Source: #AI4Elections Concept Document, Sections 6, 8, 12
 | Demo video | 3 minutes max |
 
 ## Judging rubric (published)
-Technical functionality and innovation 25% | Electoral relevance and practical usefulness 20% | Cybersecurity, privacy and responsible AI 20% | Inclusion, accessibility, multilingual 15% | Scalability, sustainability, feasibility 15% | Demonstration and documentation 5%.
+Technical functionality and innovation 25% | Electoral relevance and practical usefulness 20% | Cybersecurity, privacy and responsible AI 20% | Inclusion and multilingual 15% | Scalability and feasibility 15% | Demonstration and documentation 5%.
 Critical security, privacy, safety or legal concerns can exclude a project regardless of score.
 
-## Evaluation good practice
-- Keep a held-out test set you never tune on. Report per-language / per-group results.
-- Report false positives and false negatives in terms of *who is harmed*.
-- Synthetic-data scores are only a sanity check; state this openly.
