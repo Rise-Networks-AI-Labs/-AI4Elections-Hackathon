@@ -89,7 +89,7 @@ All participants are expected to:
 
 Teams should follow the official submission instructions provided by the organisers.
 
-Participants are encouraged to use the documentation templates and technical resources provided in this repository when developing and documenting their prototypes.
+Participants should use the documentation templates and technical resources provided in this repository when developing and documenting their prototypes.
 
 The prototype submission deadline is **30 November 2026**.
 
@@ -106,6 +106,6 @@ The organisers reserve the right to update licensing information where necessary
 
 **Rise Networks**
 
-Website: risenetworks.org
+Website: ai4elections.risenetworks.org
 
 Official programme email and community channel details will be provided by the organisers.
