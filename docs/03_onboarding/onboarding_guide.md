@@ -60,7 +60,7 @@ Breaches can lead to disqualification.
 ## 5. How you will be supported
 Mentors (technical, electoral, accessibility, legal/data-protection) hold clinics 21-30 Nov. Book via the mentor sign-up sheet. Judges do not score teams they mentored.
 
-## 6. Submission checklist (8 Dec)
+## 6. Submission checklist (22 Dec)
 See `docs/01_technical_briefs/00_general_challenge_rules.md`. Final deadline time to be confirmed by organisers.
 
 ## 7. Communication
