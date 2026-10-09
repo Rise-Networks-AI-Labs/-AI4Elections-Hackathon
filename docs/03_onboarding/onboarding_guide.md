@@ -2,22 +2,23 @@
 
 Welcome to the **#AI4Elections Hackathon**: Design and develop working, responsible AI solutions for electoral integrity, transparency and inclusion in Nigeria.
 
-| Date (2026)              | Milestone                                                    |
-| ------------------------ | ------------------------------------------------------------ |
-| **16 Oct, midnight WAT** | **Applications open**                                        |
-| **6 Nov, 11:59pm WAT**   | **Applications close**                                       |
-| 7-10 Nov                  | Application data cleaning and eligibility checks             |
-| 10-14 Nov                 | Technical and programme screening of applications            |
-| 17-18 Nov                | Shortlisting and notification of selected participants       |
-| 19-21 Nov                | Team formation and track allocation                          |
-| **22 Nov**               | **Participant onboarding and hackathon kickoff**             |
-| 24-28 Nov                | Problem validation, ideation and solution design             |
-| 24-28 Nov                | Technical bootcamp and mentor matching                       |
-| 29 Nov-8 Dec             | Prototype development sprint                                 |
-| 29 Nov-8 Dec             | Mentor check-ins and technical clinics                       |
-| **8 Dec**                | **Prototype submission and documentation**                   |
-| Dec                      | Judging, national finale and awards                          |
-| Jan-Feb 2027             | Testing, mentorship and pilot discussions for selected teams |
+| Date (2026)          | Milestone                                                    |
+| -------------------- | ------------------------------------------------------------ |
+| 16 Oct, midnight WAT | Applications open                                            |
+| 6 Nov, 11:59pm WAT   | Applications close                                           |
+| 6–9 Nov              | Application data cleaning and eligibility checks             |
+| 11–13 Nov            | Technical and programme screening of applications            |
+| 16–17 Nov            | Shortlisting and notification of selected participants       |
+| 19–23 Nov            | Team formation and track allocation                          |
+| 25–26 Nov            | Participant onboarding and hackathon kickoff                 |
+| 30 Nov–3 Dec         | Problem validation, ideation and solution design             |
+| 7–9 Dec              | Technical bootcamp and mentor matching                       |
+| 11–21 Dec            | Prototype development sprint                                 |
+| 11–21 Dec            | Mentor check-ins and technical clinics                       |
+| 22 Dec               | Prototype submission and documentation                       |
+| Late Dec 2026        | Judging, national finale and awards                          |
+| Jan–Feb 2027         | Testing, mentorship and pilot discussions for selected teams |
+
 
 
 ## 2. Before kickoff (checklist)
