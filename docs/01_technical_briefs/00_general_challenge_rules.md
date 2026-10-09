@@ -11,7 +11,7 @@ Applies to every team.
 6. **Document limits and safeguards.** Every submission states what it cannot do and what is needed before further testing.
 7. **Winning is not approval** for operational deployment.
 
-## Minimum submission package (due 7 December 2026)
+## Minimum submission package (due 22December 2026)
 | Item | Requirement |
 |---|---|
 | Working prototype | Runs from your repo following your README; demo link or reproducible setup |
