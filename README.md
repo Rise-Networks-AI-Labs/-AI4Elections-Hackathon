@@ -91,7 +91,7 @@ Teams should follow the official submission instructions provided by the organis
 
 Participants should use the documentation templates and technical resources provided in this repository when developing and documenting their prototypes.
 
-The prototype submission deadline is **7 December 2026**.
+The prototype submission deadline is **22 December 2026**.
 
 ## Licences
 
