@@ -2,7 +2,7 @@
 
 Self-paced modules that feed the pre-technical bootcamps. Each module: **goal, what to learn, hands-on task, resources**. Verify links before publishing; the resources named are well-known public references, but URLs and versions change. **The modules are recommended learning resources, not mandatory technology requirements. Teams should select methods appropriate to their problem, data, prototype and available resources**
 
-## What You Are Expected to Build
+## What You Are Expected to Develop
 
 The #AI4Elections Hackathon is a Design + Develop competition. Participants are expected to develop a working prototype or technically credible proof of concept that addresses a defined electoral problem within one of the five challenge tracks.
 
