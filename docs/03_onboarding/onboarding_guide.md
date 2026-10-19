@@ -2,22 +2,19 @@
 
 Welcome to the **#AI4Elections Hackathon**: Design and develop working, responsible AI solutions for electoral integrity, transparency and inclusion in Nigeria.
 
-| Date (2026)          | Milestone                                                    |
-| -------------------- | ------------------------------------------------------------ |
-| 16 Oct, midnight WAT | Applications open                                            |
-| 6 Nov, 11:59pm WAT   | Applications close                                           |
-| 6–9 Nov              | Application data cleaning and eligibility checks             |
-| 11–13 Nov            | Technical and programme screening of applications            |
-| 16–17 Nov            | Shortlisting and notification of selected participants       |
-| 19–23 Nov            | Team formation and track allocation                          |
-| 25–26 Nov            | Participant onboarding and hackathon kickoff                 |
-| 30 Nov–3 Dec         | Problem validation, ideation and solution design             |
-| 7–9 Dec              | Technical bootcamp and mentor matching                       |
-| 11–21 Dec            | Prototype development sprint                                 |
-| 11–21 Dec            | Mentor check-ins and technical clinics                       |
-| 22 Dec               | Prototype submission and documentation                       |
-| Late Dec 2026        | Judging, national finale and awards                          |
-| Jan–Feb 2027         | Testing, mentorship and pilot discussions for selected teams |
+| S/N | Date (2026) | Activity |
+|:---:|---|---|
+| 1 | 21 October | Applications open |
+| 2 | 11 November | Applications close |
+| 3 | 13–16 November | Application data cleaning and eligibility checks |
+| 4 | 13–16 November | Technical and programme screening of applications |
+| 5 | 13–16 November | Shortlisting and notification of selected participants |
+| 6 | 18–19 November | Participant onboarding and hackathon kick-off |
+| 7 | 23–27 November | Problem validation, ideation and solution design |
+| 8 | 23–27 November | Virtual technical bootcamp and mentor matching |
+| 9 | 28 November – 13 December | Prototype development sprint, testing, submission and documentation |
+| 10 | 15–16 December | Demo Day, project showcase and live judging |
+| 11 | 19 December | Grand finale, award presentation and innovation showcase |
 
 
 
