@@ -2,20 +2,18 @@
 
 Welcome to the **#AI4Elections Hackathon 2026**: Design and develop working, responsible AI solutions for electoral integrity, transparency and inclusion in Nigeria.
 
-| S/N | Date (2026) | Activity |
-|:---:|---|---|
-| 1 | 21 October | Applications open |
-| 2 | 11 November | Applications close |
-| 3 | 13–16 November | Application data cleaning and eligibility checks |
-| 4 | 13–16 November | Technical and programme screening of applications |
-| 5 | 13–16 November | Shortlisting and notification of selected participants |
-| 6 | 18–19 November | Participant onboarding and hackathon kick-off |
-| 7 | 23–27 November | Problem validation, ideation and solution design |
-| 8 | 23–27 November | Virtual technical bootcamp and mentor matching |
-| 9 | 28 November – 13 December | Prototype development sprint, testing, submission and documentation |
-| 10 | 15–16 December | Demo Day, project showcase and live judging |
-| 11 | 19 December | Grand finale, award presentation and innovation showcase |
-
+| S/N | Dates | Activities |
+|---:|---|---|
+| 1 | 22 October 2026 | Application opens |
+| 2 | 12 November 2026 | Application closes |
+| 3 | 13–16 November 2026 | Application data cleaning and eligibility checks |
+| 4 | 13–16 November 2026 | Technical and programme screening of applications |
+| 5 | 13–16 November 2026 | Shortlisting and notification of selected participants |
+| 6 | 18–19 November 2026 | Participant onboarding and hackathon kick-off |
+| 7 | 23–27 November 2026 | Problem validation, ideation and solution design; virtual technical bootcamp and mentor matching |
+| 8 | 28 November–13 December 2026 | Prototype development sprint, testing, submission and documentation |
+| 9 | 15–16 December 2026 | Demo Day, project showcase and live judging |
+| 10 | 16 December 2026 | Grand finale, award presentation and innovation showcase |
 
 
 ## 2. Before kickoff (checklist)
