@@ -19,7 +19,7 @@ Welcome to the **#AI4Elections Hackathon 2026**: Design and develop working, res
 ## 2. Before kickoff (checklist)
 - [ ] Confirmation email received; accept your place within the stated window
 - [ ] Government ID and any organisation/institution documents ready (see eligibility)
-- [ ] Team of 1-4 finalised (each member registered individually; **team membership cannot change after the hackathon begins**)
+- [ ] Team of 2-4 finalised (each member registered individually; **team membership cannot change after the hackathon begins**)
 - [ ] GitHub account; join the hackathon organisation and community channel
 - [ ] Read: General Rules, your Track Brief, Code of Conduct summary below
 - [ ] Set up environment (Section 4) and run `notebooks/02`
