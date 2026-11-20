@@ -1,4 +1,4 @@
-# Participant Onboarding Guide
+# Finalists Onboarding Guide
 
 Welcome to the **#AI4Elections Hackathon 2026**: Design and develop working, responsible AI solutions for electoral integrity, transparency and inclusion in Nigeria.
 
