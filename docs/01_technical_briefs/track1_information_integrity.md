@@ -1,4 +1,4 @@
-# Technical Brief: Track 1 - AI and Electoral Information Integrity
+# Technical Brief: Track 1 - AI and Trustworthy Electoral Information
 
 ## Challenge
 Help people and fact-checkers detect, assess and respond to AI-generated or manipulated electoral information: synthetic media, impersonation and misleading content, especially in Nigerian languages and on WhatsApp-like channels.
