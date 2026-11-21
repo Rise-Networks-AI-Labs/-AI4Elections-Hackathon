@@ -1,4 +1,4 @@
-# Technical Brief: Track 2 - Electoral Data Intelligence
+# Technical Brief: Track 2 - Electoral Data Analysis, Operational Insight and Decision Support
 
 ## Challenge
 Apply responsible AI to *authorised, public or synthetic* electoral data: improve data quality, process public documents, support logistics analysis, and surface anomalies **for human review**.
