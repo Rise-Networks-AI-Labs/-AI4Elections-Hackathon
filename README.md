@@ -35,8 +35,8 @@ Participants should begin with the following resources:
 
 | Track | Challenge Area                                  | Starter Notebook |
 | ----- | ----------------------------------------------- | ---------------- |
-| 1     | AI and Electoral Information Integrity          | 01               |
-| 2     | Electoral Data Intelligence                     | 02               |
+| 1     | AI and Trustworthy Electoral Information          | 01               |
+| 2     | Electoral Data Analysis, Operational Insight and Decision support                     | 02               |
 | 3     | Inclusive and Multilingual Civic Tech           | 03               |
 | 4     | Electoral Cybersecurity and Resilience          | 05               |
 | 5     | Election Observation and Citizen Accountability | 04               |
