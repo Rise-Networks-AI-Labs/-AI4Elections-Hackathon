@@ -33,7 +33,7 @@ WCAG quick audit, screen reader demo, offline-first, SMS/USSD constraints, usabi
 
 ## Bootcamp 6: Ship it (27th Nov, all)
 
-Docs templates (README, model card, safety), demo scripting, MVP scoping for the prototype development sprint, judging rubric walkthrough, mentor matching finalisation. Output: one-page sprint plan with milestones for 11-21 Dec.
+Docs templates (README, model card, safety), demo scripting, MVP scoping for the prototype development sprint, judging rubric walkthrough, mentor matching finalisation. Output: one-page sprint plan with milestones for 28th Nov-13th Dec.
 
 ## Facilitator kit
 
@@ -41,7 +41,7 @@ Slides, lab notebooks, answer keys (organisers only), attendance tracker, feedba
 
 ## Success measures
 
-Attendance >= 80% of sessions per team; 100% of teams with a running notebook and repo by 9 Dec; post-bootcamp confidence survey; sprint plan submitted.
+Attendance >= 80% of sessions per team; 100% of teams with a running notebook and repo by 27th Dec; post-bootcamp confidence survey; sprint plan submitted.
 
 ## Logistics checklist
 
