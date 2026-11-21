@@ -38,8 +38,8 @@ Participants should begin with the following resources:
 | 1     | AI and Trustworthy Electoral Information          | 01               |
 | 2     | Electoral Data Analysis, Operational Insight and Decision support                     | 02               |
 | 3     | Inclusive and Multilingual Civic Tech           | 03               |
-| 4     | Electoral Cybersecurity and Resilience          | 04            |
-| 5     | Election Observation and Citizen Accountability | 05            |
+| 4     | Electoral Cybersecurity and Resilience          | 05            |
+| 5     | Election Observation and Citizen Accountability | 04          |
 
 ## Getting Started
 
